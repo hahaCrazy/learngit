@@ -5,3 +5,4 @@ Git tracks changes of files.
 hahaha
 Creating a new branch is quick.git
 6666 &and 8888
+add merge
